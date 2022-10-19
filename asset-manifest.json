@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Payout/static/css/main.b9cc0342.css",
+    "main.js": "/Payout/static/js/main.10f439f9.js",
+    "index.html": "/Payout/index.html",
+    "main.b9cc0342.css.map": "/Payout/static/css/main.b9cc0342.css.map",
+    "main.10f439f9.js.map": "/Payout/static/js/main.10f439f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9cc0342.css",
+    "static/js/main.10f439f9.js"
+  ]
+}
