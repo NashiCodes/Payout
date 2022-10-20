@@ -1,13 +1,14 @@
 .btn {
-  background-color: #222;
+  background-color: #131C3F;
   color: #fff;
   text-decoration: none;
   transition: 0.5s;
   padding: 0.5em;
   border-radius: 1em;
-  box-shadow: inset rgb(55, 53, 53);
+  box-shadow: 2px 2px 2px 3px rgba(0, 0, 0, 0.2);
 }
 
 .btn:hover {
   color: #fe5d26;
+  padding: 0.70em;
 }

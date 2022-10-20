@@ -15,7 +15,8 @@
 .home_container h1 span {
   color: #ffbb33;
   padding: 0 0.2em;
-  background-color: #222;
+  background-color: #131C3F;
+  border-radius: 12px;
 }
 
 .home_container p {
@@ -26,4 +27,8 @@
 .home_container img {
   width: 350px;
   margin: 2em 0;
+  transition: 0.5s;
+}
+.home_container img:hover{
+  width: 370px;
 }
