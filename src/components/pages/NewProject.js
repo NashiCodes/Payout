@@ -1,5 +1,3 @@
-function NewProject() {
-    return <h1>NewProject</h1>
+export default function NewProject() {
+  return <h1>NewProject</h1>;
 }
-
-export default NewProject;

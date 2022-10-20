@@ -2,12 +2,16 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: "Open Sans", sans-serif;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
 }
 
 html,
 body,
 #root {
-  background-color: #efefef;
   height: 100%;
+  text-align: center;
+  background-color: #EBFFEB;
+  justify-content: center;
+  color: #0a0a0a;
 }
