@@ -10,8 +10,6 @@ html,
 body,
 #root {
   height: 100%;
-  text-align: center;
-  background-color: #EBEBEB;
-  justify-content: center;
+  background-color: #ebebeb;
   color: #0a0a0a;
 }

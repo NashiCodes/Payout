@@ -1,0 +1,21 @@
+.Select {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1em;
+}
+
+.Select label {
+  margin-bottom: 0.6em;
+  font-weight: bold;
+}
+
+.Select select {
+  padding: 0.7em;
+  border-radius: 0;
+  border: none;
+  transition: 0.5s;
+}
+
+.Select select:hover {
+  padding: 1em;
+}
