@@ -10,10 +10,11 @@
 }
 
 .list {
+
   display: flex;
   list-style: none;
   align-items: center;
-  justify-self: center;
+  justify-items: center;
 }
 
 .item {
